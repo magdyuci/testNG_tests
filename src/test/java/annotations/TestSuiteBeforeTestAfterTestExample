@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression test Suite">
+    <test name="Screen Scenarios 1">
+        <classes>
+            <class name="annotations.TestClassOne"></class>
+            <class name="annotations.TestClassTwo"></class>
+        </classes>
+    </test>
+    <test name="Screen Scenarios 2">
+        <classes>
+            <class name="annotations.TestClassOne"></class>
+            <class name="annotations.TestClassTwo"></class>
+        </classes>
+    </test>
+</suite>

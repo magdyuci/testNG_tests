@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="13" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="23" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+      <class name="annotations.TestClassTwo">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="BeforeSuite" is-config="true" duration-ms="9" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="beforeClassTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="beforeClassTestClassTwo" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassTestClassTwo -->
+        <test-method status="PASS" signature="testATestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="testATestClassTwo" duration-ms="1" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testATestClassTwo -->
+        <test-method status="PASS" signature="beforeMethodClassTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="beforeMethodClassTestClassTwo" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClassTestClassTwo -->
+        <test-method status="PASS" signature="afterMethodTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="afterMethodTestClassTwo" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTestClassTwo -->
+        <test-method status="PASS" signature="testBTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="testBTestClassTwo" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBTestClassTwo -->
+        <test-method status="PASS" signature="beforeMethodClassTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="beforeMethodClassTestClassTwo" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClassTestClassTwo -->
+        <test-method status="PASS" signature="afterMethodTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="afterMethodTestClassTwo" is-config="true" duration-ms="1" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTestClassTwo -->
+        <test-method status="PASS" signature="afterClassTestClassTwo()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="afterClassTestClassTwo" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTestClassTwo -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="AfterTest" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:annotations.TestClassTwo@3b6eb2ec]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:52Z" finished-at="2020-09-01T07:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- annotations.TestClassTwo -->
+      <class name="annotations.TestClassOne">
+        <test-method status="PASS" signature="beforeMethodClassTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="beforeMethodClassTestClassOne" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClassTestClassOne -->
+        <test-method status="PASS" signature="beforeClassTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="beforeClassTestClassOne" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassTestClassOne -->
+        <test-method status="PASS" signature="testATestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="testATestClassOne" duration-ms="1" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testATestClassOne -->
+        <test-method status="PASS" signature="afterMethodTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="afterMethodTestClassOne" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTestClassOne -->
+        <test-method status="PASS" signature="beforeMethodClassTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="beforeMethodClassTestClassOne" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClassTestClassOne -->
+        <test-method status="PASS" signature="testBTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="testBTestClassOne" duration-ms="1" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBTestClassOne -->
+        <test-method status="PASS" signature="afterMethodTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="afterMethodTestClassOne" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTestClassOne -->
+        <test-method status="PASS" signature="afterClassTestClassOne()[pri:0, instance:annotations.TestClassOne@6e8dacdf]" name="afterClassTestClassOne" is-config="true" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTestClassOne -->
+      </class> <!-- annotations.TestClassOne -->
+      <class name="annotations.TestAnnotation">
+        <test-method status="PASS" signature="annotationMethod()[pri:0, instance:annotations.TestAnnotation@1e643faf]" name="annotationMethod" duration-ms="0" started-at="2020-09-01T07:07:47Z" finished-at="2020-09-01T07:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annotationMethod -->
+      </class> <!-- annotations.TestAnnotation -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

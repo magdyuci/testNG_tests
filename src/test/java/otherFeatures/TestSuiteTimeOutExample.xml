@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression test Suite" time-out="5000">
+    <test name="Screen Scenarios 1">
+        <classes>
+            <class name="otherFeatures.TimeOutSuiteTestExample"></class>
+        </classes>
+    </test>
+</suite>
