@@ -1,1 +1,1 @@
-These are the exercises of a the testNG course that I passed. They are good as the basis for any test development with testNG.
+These are the exercises of a the testNG course with differents examples of assetions, annotaions, dataproviders, grouping features, parallel tests, methods and classes, listeners and other. They are good as the basis for any test development with testNG.
